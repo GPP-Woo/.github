@@ -9,15 +9,20 @@ In de praktijk maken gemeenten al documenten openbaar. Dat doen zij op online pl
 
 Voor het publiceren van (aanzienlijke hoeveelheden) documenten is technologie nodig. De wet schrijft voor dat overheidsorganisaties, waaronder gemeenten, hiervoor aansluiten op de landelijke voorziening [Woo-index](https://open.overheid.nl/). Deze landelijke voorziening vergt dat overheidsorganen, dus ook gemeenten, documenten publiceren op een eigen online platform. 
 
-Met het project ‘Generiek Publicatieplatform Woo (GGP-Woo)’ ontwikkelen en realiseren de samenwerkende gemeenten een generiek publicatieplatform voor de publieke openbaarmaking van documenten en metadata. Binnen 6 maanden realiseren wij:
-- Een opslagvoorziening inclusief API's voor openbare documenten en metadata,
-- Zoektechnologie voor het doorzoekbaar en vindbaar maken van openbare documenten,
-- Gebruikersinterfaces voor medewerkers en beheerderes voor het publiceren en beheren van openbare documenten
-- En last-but-not-least... gebruikersinterfaces voor burgers  voor het zoeken en raadplegen van openbare documenten
+Met het project ‘Generiek Publicatieplatform Woo (GGP-Woo)’ ontwikkelen en realiseren de samenwerkende gemeenten een generiek publicatieplatform voor de publieke openbaarmaking van documenten en metadata. Deze bestaat / zal bestaan uit een viertal componenten:
+- De [GPP-publicatiebank](https://github.com/GPP-Woo/GPP-publicatiebank), een opslagvoorziening inclusief API's voor openbare documenten en metadata,
+- Het [GPP-zoeken](https://github.com/GPP-Woo/GPP-zoeken),  zoektechnologie voor het doorzoekbaar en vindbaar maken van openbare documenten,
+- De [GPP-app](https://github.com/GPP-Woo/GPP-app), gebruikersinterfaces voor medewerkers en beheerderes voor het publiceren en beheren van openbare documenten
+- Het [GPP-burgerportaal](https://github.com/GPP-Woo/GPP-burgerportaal), gebruikersinterfaces voor burgers  voor het zoeken en raadplegen van openbare documenten
 
 We volgen daarbij de principes van [Common Ground](https://commonground.nl/) en open source. Uiteraard besteden we daarbij ook volop aandacht aan het voldoen aan wet- en regelgeving, informatieveiligheid, digitale toegankelijkheid en open standaarden.
 
 Meer informatie over de boogde oplossing is te lezen in onze [Project Start Architectuur](https://github.com/GPP-Woo/.github/blob/main/docs/PSA%20Generiek%20Publicatieplatform%20Woo%20V1.1.pdf).
+
+
+## Hoever zijn we?
+
+_Binnenkort meer nieuws..._
 
 
 ## Wie zijn "we"?
