@@ -12,7 +12,7 @@ Voor het publiceren van (aanzienlijke hoeveelheden) documenten is technologie no
 Met het project ‘Generiek Publicatieplatform Woo (GGP-Woo)’ ontwikkelen en realiseren de samenwerkende gemeenten een generiek publicatieplatform voor de publieke openbaarmaking van documenten en metadata. Deze bestaat / zal bestaan uit een viertal componenten:
 - De [GPP-publicatiebank](https://github.com/GPP-Woo/GPP-publicatiebank), een opslagvoorziening inclusief API's voor openbare documenten en metadata,
 - Het [GPP-zoeken](https://github.com/GPP-Woo/GPP-zoeken),  zoektechnologie voor het doorzoekbaar en vindbaar maken van openbare documenten,
-- De [GPP-app](https://github.com/GPP-Woo/GPP-app), gebruikersinterfaces voor medewerkers en beheerderes voor het publiceren en beheren van openbare documenten
+- De [GPP-app](https://github.com/GPP-Woo/GPP-app), gebruikersinterfaces voor medewerkers en beheerders voor het publiceren en beheren van openbare documenten
 - Het [GPP-burgerportaal](https://github.com/GPP-Woo/GPP-burgerportaal), gebruikersinterfaces voor burgers  voor het zoeken en raadplegen van openbare documenten
 
 We volgen daarbij de principes van [Common Ground](https://commonground.nl/) en open source. Uiteraard besteden we daarbij ook volop aandacht aan het voldoen aan wet- en regelgeving, informatieveiligheid, digitale toegankelijkheid en open standaarden.
