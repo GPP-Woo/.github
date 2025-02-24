@@ -22,11 +22,13 @@ Meer informatie over de boogde oplossing is te lezen in onze [Project Start Arch
 
 ## Hoever zijn we?
 
-De eerste versies van de [GPP-publicatiebank](https://github.com/GPP-Woo/GPP-publicatiebank), [GPP-app](https://github.com/GPP-Woo/GPP-app) en de [GPP-burgerportaal](https://github.com/GPP-Woo/GPP-burgerportaal) zijn **test-gereed** opgeleverd. Gepland is dat de deelnemende gemeenten deze in januari 2025 gaan testen. Hierna zullen deze componenten **productie-gereed** opgeleverd worden. Voor de technische implementatie adviseren wij om gebruik te maken van de [helm charts](https://github.com/GPP-Woo/charts).
+De eerste versies van de [GPP-publicatiebank](https://github.com/GPP-Woo/GPP-publicatiebank), [GPP-app](https://github.com/GPP-Woo/GPP-app) en de [GPP-burgerportaal](https://github.com/GPP-Woo/GPP-burgerportaal) zijn **test-gereed** opgeleverd. Gepland is dat de deelnemende gemeenten deze in februari/maart 2025 gaan testen. Hierna zullen deze componenten **productie-gereed** opgeleverd worden. Voor de technische implementatie adviseren wij om gebruik te maken van de [helm charts](https://github.com/GPP-Woo/charts).
 
 Met deze versies is het grofweg mogelijk om openbare documenten te publiceren, zodat ze (na indexering door de [Woo-index](https://www.koopoverheid.nl/voor-overheden/rijksoverheid/woo-index)) door burgers gevonden en geraadpleegd kunnen worden op [open.overheid.nl](https://open.overheid.nl/). Een lokale website in de huisstijl van de gemeente zit nog niet in de oplossing. Het GPP-burgerportaal voorziet nu alleen in de sitemap die nodig is voor de aansluiting op de landelijke Woo-index.
 
-In februari 2025 vervolgen we de ontwikkeling. In de eerste sprints zullen we vooral toewerken aan het (verder) ontwikkelen van het GPP-burgerportaal en GPP-zoeken, zodat gemeenten alsnog over een lokale website kunnen beschikken waar haar inwoners terecht kunnen om te zoeken naar openbare documenten van de gemeente. We verwachten deze functionaliteit te kunnen releasen in  maart/april 2025. En ook na die release zullen we nog verder gaan met ontwikkelen...
+Ondertussen hebben we de ontwikkeling vervolgd. Momenteel werken we toe aan het (verder) ontwikkelen van het GPP-burgerportaal en GPP-zoeken, zodat gemeenten alsnog over een lokale website kunnen beschikken waar haar inwoners terecht kunnen om te zoeken naar openbare documenten van de gemeente. We verwachten deze functionaliteit te kunnen releasen in  maart/april 2025. 
+
+Ook na die release zullen we nog verder gaan met ontwikkelen. Samen met de deelnemende gemeenten hebben we op hoofdlijnen (epics) de prioriteiten bepaald. Zie hiervoor [de lijst met epics](https://github.com/orgs/GPP-Woo/projects/1/views/29). We analyseren momenteel of we de "lokale thema's" en "Bewaartermijnen archiefbeheer" voor de zomer af kunnen gaan hebben.
 
 
 ## Wie zijn "we"?
