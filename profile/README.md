@@ -22,13 +22,11 @@ Meer informatie over de boogde oplossing is te lezen in onze [Project Start Arch
 
 ## Hoever zijn we?
 
-De eerste versies van de [GPP-publicatiebank](https://github.com/GPP-Woo/GPP-publicatiebank), [GPP-app](https://github.com/GPP-Woo/GPP-app) en de [GPP-burgerportaal](https://github.com/GPP-Woo/GPP-burgerportaal) zijn **test-gereed** opgeleverd. Gepland is dat de deelnemende gemeenten deze in februari/maart 2025 gaan testen. Hierna zullen deze componenten **productie-gereed** opgeleverd worden. Voor de technische implementatie adviseren wij om gebruik te maken van de [helm charts](https://github.com/GPP-Woo/charts).
+De eerste versies van de vier bovengenoemde componenten zijn **test-gereed** opgeleverd. Gepland is dat de deelnemende gemeenten deze in eind maart 2025 gaan testen. Hierna zullen deze componenten **productie-gereed** opgeleverd worden. Voor de technische implementatie adviseren wij om gebruik te maken van de [helm charts](https://github.com/GPP-Woo/charts).
 
-Met deze versies is het grofweg mogelijk om openbare documenten te publiceren, zodat ze (na indexering door de [Woo-index](https://www.koopoverheid.nl/voor-overheden/rijksoverheid/woo-index)) door burgers gevonden en geraadpleegd kunnen worden op [open.overheid.nl](https://open.overheid.nl/). Een lokale website in de huisstijl van de gemeente zit nog niet in de oplossing. Het GPP-burgerportaal voorziet nu alleen in de sitemap die nodig is voor de aansluiting op de landelijke Woo-index.
+Met deze oplossing is het mogelijk dat medewerkers handmatig documenten publiceren. Voor meer geautomatiseerde oplossingen kan er gekoppeld worden met een [API](https://github.com/GPP-Woo/GPP-publicatiebank?tab=readme-ov-file#api-specificatie). De gepubliceerde documenten kunnen door burgers gevonden en geraadpleegd worden op het _burgerportaal_ van de gemeente. Deze kan geheel in huisstijl worden gebracht door gebruik te maken van het [NL Design System](https://nldesignsystem.nl/). Ook voorziet het _burgerportaal_ in de sitemap die nodig is voor aanlsuiting op de landelijke [Woo-index](https://open.overheid.nl/).
 
-Ondertussen hebben we de ontwikkeling vervolgd. Momenteel werken we toe aan het (verder) ontwikkelen van het GPP-burgerportaal en GPP-zoeken, zodat gemeenten alsnog over een lokale website kunnen beschikken waar haar inwoners terecht kunnen om te zoeken naar openbare documenten van de gemeente. We verwachten deze functionaliteit te kunnen releasen in  maart/april 2025. 
-
-Ook na die release zullen we nog verder gaan met ontwikkelen. Samen met de deelnemende gemeenten hebben we op hoofdlijnen (epics) de prioriteiten bepaald. Zie hiervoor [de lijst met epics](https://github.com/orgs/GPP-Woo/projects/1/views/29). We analyseren momenteel of we de "lokale thema's" en "Bewaartermijnen archiefbeheer" voor de zomer af kunnen gaan hebben.
+Ondertussen gaan we verder met ontwikkelen. Samen met de deelnemende gemeenten hebben we op hoofdlijnen (epics) de prioriteiten bepaald. Zie hiervoor [de lijst met epics](https://github.com/orgs/GPP-Woo/projects/1/views/29). In de komende twee maanden (april en mei 2025) gaan we de "lokale thema's" en "Bewaartermijnen archiefbeheer" ontwikkelen. Ook breiden we de test-capaciteit uit om de kwaliteit nóg beter te borgen.
 
 
 ## Wie zijn "we"?
