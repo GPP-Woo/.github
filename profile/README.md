@@ -9,7 +9,7 @@ In de praktijk maken gemeenten al documenten openbaar. Dat doen zij op online pl
 
 Voor het publiceren van (aanzienlijke hoeveelheden) documenten is technologie nodig. De wet schrijft voor dat overheidsorganisaties, waaronder gemeenten, hiervoor aansluiten op de landelijke voorziening [Woo-index](https://open.overheid.nl/). Deze landelijke voorziening vergt dat overheidsorganen, dus ook gemeenten, documenten publiceren op een eigen online platform. 
 
-Met het project ‘Generiek Publicatieplatform Woo (GGP-Woo)’ ontwikkelen en realiseren de samenwerkende gemeenten een generiek publicatieplatform voor de publieke openbaarmaking van documenten en metadata. Deze bestaat / zal bestaan uit een viertal componenten:
+Met het project ‘Generiek Publicatieplatform Woo (GGP-Woo)’ ontwikkelen en realiseren de samenwerkende gemeenten een generiek publicatieplatform voor de publieke openbaarmaking van documenten en metadata. Deze bestaat uit een viertal componenten:
 - De [GPP-publicatiebank](https://github.com/GPP-Woo/GPP-publicatiebank), een opslagvoorziening inclusief API's voor openbare documenten en metadata,
 - Het [GPP-zoeken](https://github.com/GPP-Woo/GPP-zoeken),  zoektechnologie voor het doorzoekbaar en vindbaar maken van openbare documenten,
 - De [GPP-app](https://github.com/GPP-Woo/GPP-app), gebruikersinterfaces voor medewerkers en beheerders voor het publiceren en beheren van openbare documenten
@@ -22,11 +22,11 @@ Meer informatie over de boogde oplossing is te lezen in onze [Project Start Arch
 
 ## Hoever zijn we?
 
-De eerste versies van de vier bovengenoemde componenten zijn **test-gereed** opgeleverd. Gepland is dat de deelnemende gemeenten deze in eind maart 2025 gaan testen. Hierna zullen deze componenten **productie-gereed** opgeleverd worden. Voor de technische implementatie adviseren wij om gebruik te maken van de [helm charts](https://github.com/GPP-Woo/charts).
+Van alle vier bovengenoemde componenten zijn inmiddels eerste productie-releases uitgebracht! De releases zijn hier op GitHub te downloaden en te installeren. Voor de technische implementatie adviseren wij om gebruik te maken van de [helm charts](https://github.com/GPP-Woo/charts). Voor Dimpact-leden wordt momenteel een hosting- en support-aanbod opgesteld. Wij vragen alle organisaties die GPP-Woo willen implementeren om zich aan te sluiten bij de community, zodat we samen kunnen optrekken in het onderhouden en door-ontwikkelen van de software. Neem hiervoor contact met ons op (zie hieronder). 
 
-Met deze oplossing is het mogelijk dat medewerkers handmatig documenten publiceren. Voor meer geautomatiseerde oplossingen kan er gekoppeld worden met een [API](https://github.com/GPP-Woo/GPP-publicatiebank?tab=readme-ov-file#api-specificatie). De gepubliceerde documenten kunnen door burgers gevonden en geraadpleegd worden op het _burgerportaal_ van de gemeente. Deze kan geheel in huisstijl worden gebracht door gebruik te maken van het [NL Design System](https://nldesignsystem.nl/). Ook voorziet het _burgerportaal_ in de sitemap die nodig is voor aansluiting op de landelijke [Woo-index](https://open.overheid.nl/).
+Met de huidige oplossing is het al mogelijk dat medewerkers handmatig documenten publiceren. Voor meer geautomatiseerde oplossingen kan er gekoppeld worden met een [API](https://github.com/GPP-Woo/GPP-publicatiebank?tab=readme-ov-file#api-specificatie). De gepubliceerde documenten kunnen door burgers gevonden en geraadpleegd worden op het _burgerportaal_ van de gemeente. Deze kan geheel in huisstijl worden gebracht door gebruik te maken van het [NL Design System](https://nldesignsystem.nl/). Ook voorziet het _burgerportaal_ in de sitemap die nodig is voor aansluiting op de landelijke [Woo-index](https://open.overheid.nl/).
 
-Ondertussen gaan we verder met ontwikkelen. Samen met de deelnemende gemeenten hebben we op hoofdlijnen (epics) de prioriteiten bepaald. Zie hiervoor [de lijst met epics](https://github.com/orgs/GPP-Woo/projects/1/views/29). In de komende twee maanden (april en mei 2025) gaan we de "lokale thema's" en "Bewaartermijnen archiefbeheer" ontwikkelen. Ook breiden we de test-capaciteit uit om de kwaliteit nóg beter te borgen.
+Ondertussen gaan we verder met ontwikkelen. Samen met de deelnemende gemeenten hebben we op hoofdlijnen (epics) de prioriteiten bepaald. Zie hiervoor [de lijst met epics](https://github.com/orgs/GPP-Woo/projects/1/views/29). In de komende twee maanden (april en mei 2025) gaan we de "lokale thema's" en "Bewaartermijnen archiefbeheer" ontwikkelen. Daarna willen we de aansluiting op het zaakgericht werken verbeteren en help-functies toevoegen (juni en juli 2025).
 
 
 ## Wie zijn "we"?
@@ -38,7 +38,8 @@ Het project GPP-Woo wordt uitgevoerd onder de vlag van en ondersteund door [Dimp
 - Gemeente Kampen
 - Gemeente Losser
 - Gemeente Rotterdam
-- Gemeente Sittard-Geleen[^1]
+- Gemeente 's-Hertogenbosch [^1]
+- Gemeente Sittard-Geleen [^1]
 - Gemeente Waterland
 - Gemeente Zaanstad
 
