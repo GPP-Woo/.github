@@ -34,6 +34,7 @@ Wij vragen alle organisaties die GPP-Woo willen implementeren om zich aan te slu
 ## Wie zijn "we"?
 
 Het project GPP-Woo wordt uitgevoerd onder de vlag van en ondersteund door [Dimpact](https://www.dimpact.nl/). Op dit moment zijn de volgende gemeenten actief betrokken bij het project:
+- Gemeente Assen
 - Gemeente Enschede
 - Gemeente Groningen
 - Gemeente Haarlemmermeer
