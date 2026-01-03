@@ -28,6 +28,8 @@ Met de huidige oplossing kunnen medewerkers handmatig documenten publiceren. Voo
 
 Ondertussen zitten we niet stil! Samen met de deelnemende gemeenten hebben we op hoofdlijnen (epics) de prioriteiten bepaald. Zie hiervoor [de lijst met epics](https://github.com/orgs/GPP-Woo/projects/2/views/5). In mei 2025 hebben we de "lokale thema's" en "Bewaartermijnen archiefbeheer" opgeleverd. In juni en juli 2025 hebben we de API's t.b.v. integraties met zaaksystemen en andere bronsystemen uitgebreid en verbeterd. Ook hebben we enkele verbeteringen doorgevoerd t.b.v. de gebruiksvriendelijkheid voor medewerkers en burgers. Deze nieuwe functionaliteiten zijn begin september opgeleverd als productie-release en zijn dus nu beschikbaar om te downloaden en te implementeren!
 
+Ook in 2026 gaan we verder met ontwikkelen! Als eerste zijn de volgende epics aan de beurt: 'Strippen embedded metadata', 'Toon en bewerk publicaties van collega's' en 'Beheer-interface GPP-Burgerportaal'. De planning is dat het een en ander eind april wordt opgeleverd in een productie-release. Ondertussen stemmen we met de community af welke epics daarna zullen volgen.
+
 Wij vragen alle organisaties die GPP-Woo willen implementeren om zich aan te sluiten bij de community, zodat we samen kunnen optrekken in het onderhouden en door-ontwikkelen van de software. Neem hiervoor contact met ons op (zie hieronder). De community heeft overigens al besloten om in Q4 van dit jaar weer verder te gaan met de door-ontwikkeling. De scope en planning worden nu voorbereid en afgestemd. Wil je meer weten? Neem dan contact met ons op! (Zie hieronder)
 
 
@@ -40,6 +42,7 @@ Het project GPP-Woo wordt uitgevoerd onder de vlag van en ondersteund door [Dimp
 - Gemeente Haarlemmermeer
 - Gemeente Kampen
 - Gemeente Losser
+- Gemeente Maashorst
 - Gemeente Maastricht [^1]
 - Gemeente Rotterdam
 - Gemeente 's-Hertogenbosch
