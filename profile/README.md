@@ -17,6 +17,8 @@ Met het project ‘Generiek Publicatieplatform Woo (GGP-Woo)’ hebben de samenw
 
 Met de huidige oplossing kunnen medewerkers **handmatig** documenten publiceren. Voor meer **geautomatiseerde oplossingen** kan er gekoppeld worden met een [API](https://github.com/GPP-Woo/GPP-publicatiebank?tab=readme-ov-file#api-specificatie). De gepubliceerde documenten kunnen door burgers gevonden en geraadpleegd worden op het **burgerportaal** van de gemeente. Deze kan geheel in huisstijl worden gebracht door gebruik te maken van het [NL Design System](https://nldesignsystem.nl/). Ook voorziet het burgerportaal in de **sitemaps** die nodig zijn voor aansluiting op de landelijke [Generieke Woo-Voorziening (GWV)](https://open.overheid.nl/).
 
+We volgen daarbij de principes van **[Common Ground](https://commonground.nl/)** en **open source**. Uiteraard besteden we daarbij ook volop aandacht aan het voldoen aan **wet- en regelgeving**, **informatieveiligheid**, **digitale toegankelijkheid** en **open standaarden**.
+
 Van alle vier bovengenoemde componenten zijn **productie-rijpe releases** beschikbaar. Eind april 2026 hebben we de meest recente releases uitgebracht met daarin nieuwe functionaliteiten zoals het strippen van embedded metadata, het kunnen zien en bewerken van publicaties van collega's en een geheel nieuw beheerscherm voor het burgerportaal (bewerken van de welkomsttekst, embedded video, afbeeldingen en externe URL's). 
 
 Alle releases zijn hier op GitHub te **downloaden** en te **installeren**. Voor de technische implementatie adviseren wij om gebruik te maken van de [helm charts](https://github.com/GPP-Woo/charts). Dimpact heeft voor haar leden al een **hosting- en support-aanbod** opgesteld. Neem voor meer informatie contact op met je field manager!
