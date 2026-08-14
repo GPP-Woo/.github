@@ -39,7 +39,9 @@ Daarnaast is ons voornemen om na de zomervakantie te starten met de **integratie
 
 Het project GPP-Woo wordt uitgevoerd onder de vlag van en ondersteund door [Dimpact](https://www.dimpact.nl/). Op dit moment zijn de volgende gemeenten **actief betrokken** bij het project:
 - Gemeente Assen
+- Gemeente Borger-Odoorn
 - Gemeente Culemborg
+- Gemeente Emmen
 - Gemeente Enschede
 - Gemeente Groningen
 - Gemeente Haarlemmermeer
@@ -47,6 +49,7 @@ Het project GPP-Woo wordt uitgevoerd onder de vlag van en ondersteund door [Dimp
 - Gemeente Losser
 - Gemeente Maashorst
 - Gemeente Maastricht [^1]
+- Gemeente Oost Gelre
 - Gemeente Rotterdam
 - Gemeente 's-Hertogenbosch
 - Gemeente Sittard-Geleen [^1]
