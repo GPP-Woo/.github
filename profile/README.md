@@ -49,6 +49,7 @@ Het project GPP-Woo wordt uitgevoerd onder de vlag van en ondersteund door [Dimp
 - Gemeente Losser
 - Gemeente Maashorst
 - Gemeente Maastricht [^1]
+- Gemeente Oldenzaal
 - Gemeente Oost Gelre
 - Gemeente Rotterdam
 - Gemeente 's-Hertogenbosch
